@@ -12,7 +12,7 @@ Follow these steps to run the program locally:
 1. Clone this Git repository to your local machine:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Deukhwa/posts.git
    ```
 
 2. Navigate to the project directory:
@@ -24,7 +24,7 @@ Follow these steps to run the program locally:
 3. Install the project dependencies using npm:
 
    ```bash
-   npm instsall
+   npm install
    ```
 
 4. Start the development server:
